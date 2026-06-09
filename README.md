@@ -36,12 +36,13 @@ If you use this code or find our work helpful, please cite our paper:
 **BibTeX**
 
 ```bibtex
-@article{yu2025lrmgc,
-  title   = {Clustering Single-Cell RNA-Seq Data with Low-Rank Matrix Factorization and Local Graph Regularization},
-  author  = {Yu Y, Zhang W, Zheng X, et al.},
-  journal = {Interdisciplinary Sciences: Computational Life Sciences},
-  year    = {2025},
-  doi     = {10.1007/s12539-025-00762-y}
+@article{yu2025clustering,
+  title={Clustering Single-Cell RNA-Seq Data with Low-Rank Matrix Factorization and Local Graph Regularization},
+  author={Yu, Yue and Zhang, Wei and Zheng, Xiaoying and Shen, Juan and Li, Yuanyuan},
+  journal={Interdisciplinary Sciences: Computational Life Sciences},
+  pages={1--15},
+  year={2025},
+  publisher={Springer}
 }
 ```
 
