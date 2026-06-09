@@ -1,8 +1,5 @@
 # LRMGC
 
-> **Clustering Single-Cell RNA-Seq Data with Low-Rank Matrix Factorization and Local Graph Regularization**
-> *Interdisciplinary Sciences: Computational Life Sciences*, 2025 · [DOI: 10.1007/s12539-025-00762-y](https://doi.org/10.1007/s12539-025-00762-y)
-
 ---
 
 ## Overview
